@@ -8,6 +8,6 @@ Link to the module we used.
 
 # To Do
 
-1.Video Idea to submit.
+1.Video idea to submit.
 
 2.Answer some question beforehand.
