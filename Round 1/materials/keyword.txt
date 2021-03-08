@@ -8,3 +8,4 @@ CO2:
 (also how these thing affect health)
 AQI:
 AQI formula:
+AQI levels
