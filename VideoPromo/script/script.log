@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.3.8)  8 MAR 2021 16:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.3.8)  8 MAR 2021 18:01
 entering extended mode
 **./script.tex
 (script.tex
@@ -141,21 +141,21 @@ Non-PDF special ignored!
 {C:/Users/Quang Minh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 ] [2]
-(script.aux) ) 
+[3] (script.aux) ) 
 Here is how much of TeX's memory you used:
- 1107 strings out of 479798
- 17866 string characters out of 2867293
+ 1108 strings out of 479798
+ 17875 string characters out of 2867293
  293338 words of memory out of 3000000
- 18146 multiletter control sequences out of 15000+200000
+ 18147 multiletter control sequences out of 15000+200000
  536156 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,5n,85p,245b,139s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Quang Minh/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/base/8r.enc}<C:/Users/Quang Minh/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/courier/ucrr8a.pfb>
-Output written on script.pdf (2 pages, 20090 bytes).
+ 79i,5n,85p,251b,139s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Quang Minh/AppData/Local/Programs/MiKTeX/fonts/enc/
+dvips/base/8r.enc}<C:/Users/Quang Minh/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/courier/ucrr8a.pfb>
+Output written on script.pdf (3 pages, 21396 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
+ 17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
