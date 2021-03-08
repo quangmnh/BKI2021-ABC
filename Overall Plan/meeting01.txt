@@ -1,0 +1,15 @@
+Changing GUI (more pixels) (optional -round 2)
+Re-implement warning system:
+	+ Blinking backlight.
+	+ Buzzing only when changing AQI level changes
+Termiology:
+	+Pm, etc..
+Promotion:
+	+Video: Script,  
+How to improve:
+	+ Improve user interface
+Nhật: Lấy hàng chiều 8/3, để hàng ở lab 9/3
+Lộc: Soạn script theo Minh
+Nguyên: Share firmware
+Minh: Planning
+Trí: Support

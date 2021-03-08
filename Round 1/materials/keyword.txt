@@ -1,0 +1,10 @@
+Short answer please:
+
+sensor:
+sensor accuracy:
+pm 2.5 & 1.0:
+HCHO:
+CO2:
+(also how these thing affect health)
+AQI:
+AQI formula:
